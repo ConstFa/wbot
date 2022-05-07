@@ -5,5 +5,5 @@
     "session": "session-md.json",
     "legacySession": "legacy-session.json",
     "user_db": "users-db.json",
-    "timezone": "America/Argentina"
+    "timezone": "Asia/Jakarta"
 }
