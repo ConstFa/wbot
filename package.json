@@ -1,6 +1,6 @@
 {
-  "name": "wbot-md",
-  "description": "A WhatsApp Bot built with Baileys",
+  "name": "wbot prew",
+  "description": "insert creative description",
   "version": "1.0.1-4",
   "main": "./lib/connect.js",
   "license": "MIT",
